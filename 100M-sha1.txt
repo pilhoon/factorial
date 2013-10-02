@@ -1,0 +1,1 @@
+SHA1(/Users/ph/gmp/100M.txt)= 3600b7011643792311e5961c7e94a5d16c2d5f45
