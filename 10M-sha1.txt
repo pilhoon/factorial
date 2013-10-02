@@ -1,0 +1,1 @@
+SHA1(/Users/ph/gmp/10M.txt)= eee92cdb5b32b6a9d60827b4a4bc8bea86885d90
